@@ -8,3 +8,5 @@ so the two ai's settled on a ball screw design w/ nema23 motors ... huge  .. i m
 claude wrote the alpaca driver again ... gemini3 didn't use many api calls; actually low for the chat; claude burned up my daily immediately
 
 so i'll test the stl models and mock up for the seestat50/dwarf3's.   No ai model actually stopped the design w/ a 100 harmonic drive costing more than the scope .. it just did it.   i actually have some 1604 ball screws around from the cnc build...but this is going to be a monster .. i kept asking how is a nema23 mortor and 6" ballscrew/pillow pivot bearings going to fit? make me a schematic assembly .. and both just generated a stl model file of a nema23 motor and a ball screww assembly....
+
+20260119 mlastro adds sas66 and PA!!
