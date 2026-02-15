@@ -10,3 +10,6 @@ claude wrote the alpaca driver again ... gemini3 didn't use many api calls; actu
 so i'll test the stl models and mock up for the seestat50/dwarf3's.   No ai model actually stopped the design w/ a 100 harmonic drive costing more than the scope .. it just did it.   i actually have some 1604 ball screws around from the cnc build...but this is going to be a monster .. i kept asking how is a nema23 mortor and 6" ballscrew/pillow pivot bearings going to fit? make me a schematic assembly .. and both just generated a stl model file of a nema23 motor and a ball screww assembly....
 
 20260119 mlastro adds sas66 and PA!!
+20260215 .. happy new year ... https://arxiv.org/pdf/2508.00843v1
+https://blog.adafruit.com/2026/02/14/from-pdf-to-lbr-using-deep-think-to-write-custom-cad-parts/
+so still slabs and still llm's .. not the new vision llm on objects you would think cad drawings could be trainable w/o extensive labelling
