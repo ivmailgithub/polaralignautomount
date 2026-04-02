@@ -13,3 +13,4 @@ so i'll test the stl models and mock up for the seestat50/dwarf3's.   No ai mode
 20260215 .. happy new year ... https://arxiv.org/pdf/2508.00843v1
 https://blog.adafruit.com/2026/02/14/from-pdf-to-lbr-using-deep-think-to-write-custom-cad-parts/
 so still slabs and still llm's .. not the new vision llm on objects you would think cad drawings could be trainable w/o extensive labelling
+20260402 .. https://promakers.pl/en/automatic-polar-alignment/
