@@ -14,3 +14,7 @@ so i'll test the stl models and mock up for the seestat50/dwarf3's.   No ai mode
 https://blog.adafruit.com/2026/02/14/from-pdf-to-lbr-using-deep-think-to-write-custom-cad-parts/
 so still slabs and still llm's .. not the new vision llm on objects you would think cad drawings could be trainable w/o extensive labelling
 20260402 .. https://promakers.pl/en/automatic-polar-alignment/
+
+
+20260719:
+https://www.youtube.com/watch?v=6trAkQY5_kc make form has instructions for a claude mcp to freecad connector; can wack one from claude to do a mcp to my dgx gb10 qwen36-35b-a3b??  right now with a huge template prompt i can barely get code out .. a 1 bit 2bit quat glm52 is kind of silly and i still agree with theo's "local ai is silly" rant... a 4 node dgx gb10 cluster w/ a 400g miltok would cost $25k ... servethehome has a 8 node dgx gb10 cluster setup in production which only loads half of the 1T for model and the rest is agents/mcp's/context ... parallelism is slow slow...
